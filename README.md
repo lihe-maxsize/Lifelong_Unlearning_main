@@ -2,9 +2,10 @@
 This codebase is developed based on the LLaVA source code. 
 To use it, please install all the environment dependencies required by LLaVA.
 
-# Benchmark
-The QA pairs are in the folder of tasks.
-The full MLUbench is available at https://1drv.ms/f/c/419e3e9d51ec307d/Ej7v9Yo_Q6BOsb5z2nzy1w8BMIvrEZUZG0fYg7DM2p-8ig 
+# The MLUBench
+The QA pairs of Tasks are in the "Tasks" folder of the MLUBench.zip.
+The QA pairs of each entity are in the "Entities" folder of the MLUBench.zip.
+The images are available at this anonymous URL https://1drv.ms/f/c/419e3e9d51ec307d/ErRa7jkzxZhGvZlmLoGfuNIBsQ_fk3PcbOZzryhBuX47ig?e=MUuXwA
 
 # Unlearning
 The code for baseline unlearning is in unlearning_auto.py.
