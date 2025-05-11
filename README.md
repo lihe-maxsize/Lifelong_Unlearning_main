@@ -1,6 +1,7 @@
 # LLaVA Lifelong Unlearning
 This codebase is developed based on the LLaVA source code. 
 To use it, please install all the environment dependencies required by LLaVA.
+The source codes are in the 
 
 # The MLUBench
 The QA pairs of Tasks are in the "Tasks" folder of the MLUBench.zip.
